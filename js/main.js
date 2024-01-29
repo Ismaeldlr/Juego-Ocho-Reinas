@@ -20,7 +20,7 @@ function agregarReina(celda) {
       // Si no hay una reina y no se han colocado 8 reinas, crear elemento de imagen y agregarla a la celda
       if (reinasColocadas < 8) {
         var img = document.createElement("img");
-        img.src = "images/reina.png";
+        img.src = "images/Reina.png";
         img.alt = "Reina";
         img.className = "reina-img";
 
