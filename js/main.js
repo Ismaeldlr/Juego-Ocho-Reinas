@@ -93,5 +93,4 @@ function resetearTablero(){
   }
   reinasColocadas = 0;
   actualizarReinasRestantes();
-
 }
